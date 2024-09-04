@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://dfauth.alignedcookie88.com",
     "icon": "https://icons.duckduckgo.com/ip3/dfauth.alignedcookie88.com.ico",
     "slug": "df-auth",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1241,
-    "timeDay": 1241,
-    "timeWeek": 1241,
-    "timeMonth": 1241,
-    "timeYear": 1241,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 2877,
+    "timeDay": 2877,
+    "timeWeek": 2877,
+    "timeMonth": 2877,
+    "timeYear": 2877,
+    "dailyMinutesDown": {
+      "2024-09-04": 0
+    }
   }
 ]
