@@ -7,6 +7,8 @@ sites:
     url: https://alignedcookie88.com
   - name: DFAuth
     url: https://dfauth.alignedcookie88.com
+  - name: AlignedCookie88 Repositories
+    url: https://repo.alignedcookie88.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
