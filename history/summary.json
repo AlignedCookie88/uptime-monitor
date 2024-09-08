@@ -4,9 +4,9 @@
     "url": "https://alignedcookie88.com",
     "icon": "https://icons.duckduckgo.com/ip3/alignedcookie88.com.ico",
     "slug": "aligned-cookie88-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "DFAuth",
     "url": "https://dfauth.alignedcookie88.com",
     "icon": "https://icons.duckduckgo.com/ip3/dfauth.alignedcookie88.com.ico",
     "slug": "df-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1356,
     "timeMonth": 1356,
     "timeYear": 1356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "AlignedCookie88 Repositories",
