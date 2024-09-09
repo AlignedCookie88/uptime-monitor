@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alignedcookie88.com.ico",
     "slug": "aligned-cookie88-website",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 458,
-    "timeDay": 527,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
-    "dailyMinutesDown": {
-      "2024-09-08": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 451,
+    "timeDay": 498,
+    "timeWeek": 451,
+    "timeMonth": 451,
+    "timeYear": 451,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DFAuth",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dfauth.alignedcookie88.com.ico",
     "slug": "df-auth",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1274,
-    "timeDay": 511,
-    "timeWeek": 1274,
-    "timeMonth": 1274,
-    "timeYear": 1274,
-    "dailyMinutesDown": {
-      "2024-09-08": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1186,
+    "timeDay": 504,
+    "timeWeek": 1186,
+    "timeMonth": 1186,
+    "timeYear": 1186,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AlignedCookie88 Repositories",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2685,
-    "timeDay": 2501,
-    "timeWeek": 2685,
-    "timeMonth": 2685,
-    "timeYear": 2685,
+    "time": 2619,
+    "timeDay": 2419,
+    "timeWeek": 2619,
+    "timeMonth": 2619,
+    "timeYear": 2619,
     "dailyMinutesDown": {}
   }
 ]
