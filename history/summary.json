@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alignedcookie88.com.ico",
     "slug": "aligned-cookie88-website",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "95.83%",
+    "uptimeDay": "70.06%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "95.83%",
+    "uptimeYear": "95.83%",
     "time": 449,
-    "timeDay": 431,
-    "timeWeek": 449,
+    "timeDay": 0,
+    "timeWeek": 422,
     "timeMonth": 449,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2024-09-11": 1
+      "2024-09-12": 57,
+      "2024-09-11": 374
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dfauth.alignedcookie88.com.ico",
     "slug": "df-auth",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "95.82%",
+    "uptimeDay": "70.10%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.82%",
+    "uptimeYear": "95.82%",
     "time": 1070,
-    "timeDay": 539,
-    "timeWeek": 1070,
+    "timeDay": 0,
+    "timeWeek": 455,
     "timeMonth": 1070,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2024-09-11": 1
+      "2024-09-12": 57,
+      "2024-09-11": 373
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.alignedcookie88.com.ico",
     "slug": "aligned-cookie88-repositories",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.22%",
+    "uptimeDay": "70.14%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "94.22%",
     "time": 2570,
-    "timeDay": 2456,
+    "timeDay": 0,
     "timeWeek": 2570,
     "timeMonth": 2570,
     "timeYear": 2570,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-12": 57,
+      "2024-09-11": 373
     }
   }
 ]
